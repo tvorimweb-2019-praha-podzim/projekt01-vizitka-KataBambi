@@ -1,0 +1,52 @@
+body {
+    margin: 0 auto;
+    max-width:50em;
+    text-align: center;
+    font-family: 'Ebrima';
+    background-image: url(pozadi.jpg);
+    padding: 0 100px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+  }
+
+h1 {
+    font-family: 'Ebrima'; 
+    font-weight: bolder;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px rgb(14, 118, 168);
+}
+h2 {
+    font-family: 'Ebrima';
+    font-size: 15px;
+}
+
+img {
+    width: 250px;
+    border-radius: 80%;
+    margin-top: 40px;
+}
+
+.o_mně {
+    padding: 10px;
+    margin: 20px;
+}
+
+h3 {
+    font-family: 'Ebrima';
+    font-size: 15px;
+}
+
+.odkaz a {
+    padding: 0.7rem 0.7rem;
+    background-color: rgb(14, 118, 168);
+    color: white;
+    text-decoration: none;
+
+}
+
+.odkaz a:hover {
+    background-color: white;
+    color:rgb(14, 118, 168);
+}
